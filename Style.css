@@ -1,0 +1,1365 @@
+@media only screen and (min-width: 200px) {
+    .mediaViewInfo {
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+     :root {
+        --web-view-ids: screen;
+    }
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #screen {
+        position: absolute;
+        width: 375px;
+        height: 3000px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #screen-1 {
+        position: absolute;
+        width: 375px;
+        height: 3000px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #Head {
+        position: absolute;
+        width: 100%;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Path_1 {
+        fill: rgb(172, 248, 240);
+    }
+    .Path_1 {
+        overflow: visible;
+        position: absolute;
+        width: 100%;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Art_Connection {
+        left: 111px;
+        top: 15px;
+        position: absolute;
+        overflow: visible;
+        width: 191px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Media {
+        position: absolute;
+        width: 189px;
+        height: 35px;
+        left: 93px;
+        bottom: 50px;
+        overflow: visible;
+    }
+    #Instagram {
+        position: absolute;
+        width: 150px;
+        height: 34px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Instgram-c {
+        fill: rgba(255, 159, 226, 1);
+    }
+    .Instgram-c {
+        filter: drop-shadow(0px 3px 10px rgba(248, 137, 214, 0.639));
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        height: 64px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_awesome-instagram {
+        fill: rgba(248, 0, 173, 1);
+    }
+    .Icon_awesome-instagram {
+        overflow: visible;
+        position: absolute;
+        width: 21.344px;
+        height: 21.339px;
+        left: 6px;
+        top: 6px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Artconnection16 {
+        left: 35px;
+        top: 8px;
+        position: absolute;
+        overflow: visible;
+        width: 116px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Calibri;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #twitter {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 154px;
+        top: 0px;
+        overflow: visible;
+    }
+    #twitter-c {
+        fill: rgba(159, 210, 255, 1);
+    }
+    .twitter-c {
+        filter: drop-shadow(0px 3px 10px rgba(159, 210, 255, 0.612));
+        position: absolute;
+        overflow: visible;
+        width: 65px;
+        height: 65px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_feather-twitter {
+        fill: transparent;
+        stroke: rgba(0, 129, 243, 1);
+        stroke-width: 3px;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Icon_feather-twitter {
+        overflow: visible;
+        position: absolute;
+        width: 24.358px;
+        height: 18.061px;
+        left: 6.5px;
+        top: 10.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Sliding_image {
+        position: absolute;
+        width: 375px;
+        height: 240px;
+        left: 0px;
+        top: 63px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000 {
+        opacity: 0.8;
+        mix-blend-mode: darken;
+        position: absolute;
+        width: 375px;
+        height: 176px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000_ {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 102px;
+        top: 5px;
+        overflow: visible;
+    }
+    #Group_1 {
+        position: absolute;
+        width: 100%;
+        height: 811px;
+        left: 0px;
+        top: 380px;
+        overflow: visible;
+    }
+    #Group_2 {
+        position: absolute;
+        width: 100%;
+        height: 811px;
+        left: 0px;
+        top: 1620px;
+        overflow: visible;
+    }
+    #tabs {
+        position: absolute;
+        width: 100%;
+        height: 34.5px;
+        left: 30px;
+        top: 330px;
+        overflow: visible;
+    }
+    #Art {
+        left: 200px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 39px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(167, 166, 166, 1);
+    }
+    #Component_2__3 {
+        position: absolute;
+        width: 63.5px;
+        height: 34.5px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Craft {
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Line_1 {
+        fill: transparent;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 3px;
+        stroke-linejoin: miter;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Line_1 {
+        overflow: visible;
+        position: absolute;
+        width: 64px;
+        height: 3px;
+        left: 2.5px;
+        top: 34.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .size {
+        height: 259px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 414px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #screen {
+        position: absolute;
+        width: 414px;
+        height: 3000px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #screen-1 {
+        position: absolute;
+        width: 414px;
+        height: 1800px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #Head {
+        position: absolute;
+        width: 100%;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Path_1 {
+        fill: rgb(172, 248, 240);
+    }
+    .Path_1 {
+        overflow: visible;
+        position: absolute;
+        width: 100%;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Art_Connection {
+        left: 111px;
+        top: 15px;
+        position: absolute;
+        overflow: visible;
+        width: 191px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Media {
+        position: absolute;
+        width: 189px;
+        height: 35px;
+        left: 106px;
+        bottom: 50px;
+        overflow: visible;
+    }
+    #Instagram {
+        position: absolute;
+        width: 150px;
+        height: 34px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Instgram-c {
+        fill: rgba(255, 159, 226, 1);
+    }
+    .Instgram-c {
+        filter: drop-shadow(0px 3px 10px rgba(248, 137, 214, 0.639));
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        height: 64px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_awesome-instagram {
+        fill: rgba(248, 0, 173, 1);
+    }
+    .Icon_awesome-instagram {
+        overflow: visible;
+        position: absolute;
+        width: 21.344px;
+        height: 21.339px;
+        left: 6px;
+        top: 6px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Artconnection16 {
+        left: 35px;
+        top: 8px;
+        position: absolute;
+        overflow: visible;
+        width: 116px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Calibri;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #twitter {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 154px;
+        top: 0px;
+        overflow: visible;
+    }
+    #twitter-c {
+        fill: rgba(159, 210, 255, 1);
+    }
+    .twitter-c {
+        filter: drop-shadow(0px 3px 10px rgba(159, 210, 255, 0.612));
+        position: absolute;
+        overflow: visible;
+        width: 65px;
+        height: 65px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_feather-twitter {
+        fill: transparent;
+        stroke: rgba(0, 129, 243, 1);
+        stroke-width: 3px;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Icon_feather-twitter {
+        overflow: visible;
+        position: absolute;
+        width: 24.358px;
+        height: 18.061px;
+        left: 6.5px;
+        top: 10.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Sliding_image {
+        position: absolute;
+        width: 414px;
+        height: 240px;
+        left: 0px;
+        top: 63px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000 {
+        opacity: 0.8;
+        mix-blend-mode: darken;
+        position: absolute;
+        width: 414px;
+        height: 176px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000_ {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 102px;
+        top: 5px;
+        overflow: visible;
+    }
+    #Group_1 {
+        position: absolute;
+        width: 100%;
+        height: 811px;
+        left: 0px;
+        top: 380px;
+        overflow: visible;
+    }
+    #Group_2 {
+        position: absolute;
+        width: 100%;
+        height: 811px;
+        left: 0px;
+        top: 1620px;
+        overflow: visible;
+    }
+    #tabs {
+        position: absolute;
+        width: 100%;
+        height: 34.5px;
+        left: 50px;
+        top: 330px;
+        overflow: visible;
+    }
+    #Art {
+        left: 200px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 39px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(167, 166, 166, 1);
+    }
+    #Component_2__3 {
+        position: absolute;
+        width: 63.5px;
+        height: 34.5px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Craft {
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Line_1 {
+        fill: transparent;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 3px;
+        stroke-linejoin: miter;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Line_1 {
+        overflow: visible;
+        position: absolute;
+        width: 64px;
+        height: 3px;
+        left: 2.5px;
+        top: 34.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .size {
+        height: 259px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .mediaViewInfo {
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+     :root {
+        --web-view-ids: screen;
+    }
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #screen {
+        position: absolute;
+        width: 768px;
+        height: 1300px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #screen-1 {
+        position: absolute;
+        width: 768px;
+        height: 1000px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #Head {
+        position: absolute;
+        width: 768px;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Path_1 {
+        fill: rgb(172, 248, 240);
+    }
+    .Path_1 {
+        overflow: visible;
+        position: absolute;
+        width: 768px;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        transform: matrix(5, 0, 0, 1, 0, 0);
+    }
+    #Art_Connection {
+        left: 300px;
+        top: 15px;
+        position: absolute;
+        overflow: visible;
+        width: 191px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #twitter {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 154px;
+        top: 0px;
+        overflow: visible;
+    }
+    #twitter-c {
+        fill: rgba(159, 210, 255, 1);
+    }
+    .twitter-c {
+        filter: drop-shadow(0px 3px 10px rgba(159, 210, 255, 0.612));
+        position: absolute;
+        overflow: visible;
+        width: 65px;
+        height: 65px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_feather-twitter {
+        fill: transparent;
+        stroke: rgba(0, 129, 243, 1);
+        stroke-width: 3px;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Icon_feather-twitter {
+        overflow: visible;
+        position: absolute;
+        width: 24.358px;
+        height: 18.061px;
+        left: 6.5px;
+        top: 10.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Instagram {
+        position: absolute;
+        width: 150px;
+        height: 34px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Instgram-c {
+        fill: rgba(255, 159, 226, 1);
+    }
+    .Instgram-c {
+        filter: drop-shadow(0px 3px 10px rgba(248, 137, 214, 0.639));
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        height: 64px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_awesome-instagram {
+        fill: rgba(248, 0, 173, 1);
+    }
+    .Icon_awesome-instagram {
+        overflow: visible;
+        position: absolute;
+        width: 21.344px;
+        height: 21.339px;
+        left: 6px;
+        top: 6px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Artconnection16 {
+        left: 35px;
+        top: 8px;
+        position: absolute;
+        overflow: visible;
+        width: 116px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Calibri;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Sliding_image {
+        position: absolute;
+        width: 100%;
+        height: 240px;
+        left: 0px;
+        top: 63px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000 {
+        opacity: 0.8;
+        mix-blend-mode: darken;
+        position: absolute;
+        width: 375px;
+        height: 176px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000_ {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 102px;
+        top: 5px;
+        overflow: visible;
+    }
+    #Media {
+        position: absolute;
+        width: 100%;
+        height: 35px;
+        left: 285px;
+        bottom: 50px;
+        overflow: visible;
+    }
+    #Group_1 {
+        position: absolute;
+        width: 768px;
+        height: 811px;
+        left: 25px;
+        top: 380px;
+        overflow: visible;
+    }
+    #Group_2 {
+        position: absolute;
+        width: 768px;
+        height: 811px;
+        left: 25px;
+        top: 740px;
+        overflow: visible;
+    }
+    #tabs {
+        position: absolute;
+        width: 100%;
+        height: 34.5px;
+        left: 220px;
+        top: 330px;
+        overflow: visible;
+    }
+    #Art {
+        left: 200px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 39px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(167, 166, 166, 1);
+    }
+    #Component_2__3 {
+        position: absolute;
+        width: 63.5px;
+        height: 34.5px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Craft {
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Line_1 {
+        fill: transparent;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 3px;
+        stroke-linejoin: miter;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Line_1 {
+        overflow: visible;
+        position: absolute;
+        width: 64px;
+        height: 3px;
+        left: 2.5px;
+        top: 34.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .size {
+        height: 259px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    .mediaViewInfo {
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+     :root {
+        --web-view-ids: screen;
+    }
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #screen {
+        position: absolute;
+        width: 1024px;
+        height: 1600px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #screen-1 {
+        position: absolute;
+        width: 1024px;
+        height: 1366px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #Head {
+        position: absolute;
+        width: 768px;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Path_1 {
+        fill: rgb(172, 248, 240);
+    }
+    .Path_1 {
+        overflow: visible;
+        position: absolute;
+        width: 768px;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        transform: matrix(5, 0, 0, 1, 0, 0);
+    }
+    #Art_Connection {
+        left: 425px;
+        top: 15px;
+        position: absolute;
+        overflow: visible;
+        width: 191px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #twitter {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 154px;
+        top: 0px;
+        overflow: visible;
+    }
+    #twitter-c {
+        fill: rgba(159, 210, 255, 1);
+    }
+    .twitter-c {
+        filter: drop-shadow(0px 3px 10px rgba(159, 210, 255, 0.612));
+        position: absolute;
+        overflow: visible;
+        width: 65px;
+        height: 65px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_feather-twitter {
+        fill: transparent;
+        stroke: rgba(0, 129, 243, 1);
+        stroke-width: 3px;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Icon_feather-twitter {
+        overflow: visible;
+        position: absolute;
+        width: 24.358px;
+        height: 18.061px;
+        left: 6.5px;
+        top: 10.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Instagram {
+        position: absolute;
+        width: 150px;
+        height: 34px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Instgram-c {
+        fill: rgba(255, 159, 226, 1);
+    }
+    .Instgram-c {
+        filter: drop-shadow(0px 3px 10px rgba(248, 137, 214, 0.639));
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        height: 64px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_awesome-instagram {
+        fill: rgba(248, 0, 173, 1);
+    }
+    .Icon_awesome-instagram {
+        overflow: visible;
+        position: absolute;
+        width: 21.344px;
+        height: 21.339px;
+        left: 6px;
+        top: 6px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Artconnection16 {
+        left: 35px;
+        top: 8px;
+        position: absolute;
+        overflow: visible;
+        width: 116px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Calibri;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Sliding_image {
+        position: absolute;
+        width: 100%;
+        height: 444px;
+        left: 0px;
+        top: 63px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000 {
+        opacity: 0.8;
+        mix-blend-mode: darken;
+        position: absolute;
+        width: 375px;
+        height: 176px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000_ {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 102px;
+        top: 5px;
+        overflow: visible;
+    }
+    #Media {
+        position: absolute;
+        width: 100%;
+        height: 35px;
+        left: 425px;
+        bottom: 50px;
+        overflow: visible;
+    }
+    #Group_1 {
+        position: absolute;
+        width: 1024px;
+        height: 811px;
+        left: 25px;
+        top: 600px;
+        overflow: visible;
+    }
+    #Group_2 {
+        position: absolute;
+        width: 1024px;
+        height: 811px;
+        left: 25px;
+        top: 1025px;
+        overflow: visible;
+    }
+    #tabs {
+        position: absolute;
+        width: 100%;
+        height: 34.5px;
+        left: 330px;
+        top: 550px;
+        overflow: visible;
+    }
+    #Art {
+        left: 200px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 39px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(167, 166, 166, 1);
+    }
+    #Component_2__3 {
+        position: absolute;
+        width: 63.5px;
+        height: 34.5px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Craft {
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Line_1 {
+        fill: transparent;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 3px;
+        stroke-linejoin: miter;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Line_1 {
+        overflow: visible;
+        position: absolute;
+        width: 64px;
+        height: 3px;
+        left: 2.5px;
+        top: 34.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .size {
+        height: 444px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media only screen and (min-width: 1366px) {
+    .mediaViewInfo {
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+     :root {
+        --web-view-ids: screen;
+    }
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+    }
+    #screen {
+        position: absolute;
+        width: 1366px;
+        height: 1800px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #screen-1 {
+        position: absolute;
+        width: 1366px;
+        height: 1366px;
+        background-color: rgba(255, 255, 255, 1);
+        overflow: hidden;
+        --web-view-name: iPhone 6, 7, 8 – 2;
+        --web-view-id: screen;
+        --web-scale-on-resize: true;
+        --web-enable-deep-linking: true;
+    }
+    #Head {
+        position: absolute;
+        width: 1366px;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Path_1 {
+        fill: rgb(172, 248, 240);
+    }
+    .Path_1 {
+        overflow: visible;
+        position: absolute;
+        width: 1366px;
+        height: 63px;
+        left: 0px;
+        top: 0px;
+        transform: matrix(10, 0, 0, 1, 0, 0);
+    }
+    #Art_Connection {
+        left: 600px;
+        top: 15px;
+        position: absolute;
+        overflow: visible;
+        width: 191px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #twitter {
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        left: 154px;
+        top: 0px;
+        overflow: visible;
+    }
+    #twitter-c {
+        fill: rgba(159, 210, 255, 1);
+    }
+    .twitter-c {
+        filter: drop-shadow(0px 3px 10px rgba(159, 210, 255, 0.612));
+        position: absolute;
+        overflow: visible;
+        width: 65px;
+        height: 65px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_feather-twitter {
+        fill: transparent;
+        stroke: rgba(0, 129, 243, 1);
+        stroke-width: 3px;
+        stroke-linejoin: round;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Icon_feather-twitter {
+        overflow: visible;
+        position: absolute;
+        width: 24.358px;
+        height: 18.061px;
+        left: 6.5px;
+        top: 10.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Instagram {
+        position: absolute;
+        width: 150px;
+        height: 34px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Instgram-c {
+        fill: rgba(255, 159, 226, 1);
+    }
+    .Instgram-c {
+        filter: drop-shadow(0px 3px 10px rgba(248, 137, 214, 0.639));
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        height: 64px;
+        left: 0px;
+        top: 0px;
+    }
+    #Icon_awesome-instagram {
+        fill: rgba(248, 0, 173, 1);
+    }
+    .Icon_awesome-instagram {
+        overflow: visible;
+        position: absolute;
+        width: 21.344px;
+        height: 21.339px;
+        left: 6px;
+        top: 6px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    #Artconnection16 {
+        left: 35px;
+        top: 8px;
+        position: absolute;
+        overflow: visible;
+        width: 116px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Calibri;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 15px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Sliding_image {
+        position: absolute;
+        width: 100%;
+        height: 444px;
+        left: 0px;
+        top: 63px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000 {
+        opacity: 0.8;
+        mix-blend-mode: darken;
+        position: absolute;
+        width: 375px;
+        height: 176px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #ID20210102_144951_0000_ {
+        position: absolute;
+        width: 170px;
+        height: 170px;
+        left: 102px;
+        top: 5px;
+        overflow: visible;
+    }
+    #Media {
+        position: absolute;
+        width: 100%;
+        height: 35px;
+        left: 600px;
+        bottom: 50px;
+        overflow: visible;
+    }
+    #Group_1 {
+        position: absolute;
+        width: 1366px;
+        height: 811px;
+        left: 85px;
+        top: 600px;
+        overflow: visible;
+    }
+    #Group_2 {
+        position: absolute;
+        width: 1366px;
+        height: 811px;
+        left: 85px;
+        top: 1100px;
+        overflow: visible;
+    }
+    #tabs {
+        position: absolute;
+        width: 100%;
+        height: 34.5px;
+        left: 500px;
+        top: 550px;
+        overflow: visible;
+    }
+    #Art {
+        left: 200px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 39px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(167, 166, 166, 1);
+    }
+    #Component_2__3 {
+        position: absolute;
+        width: 63.5px;
+        height: 34.5px;
+        left: 0px;
+        top: 0px;
+        overflow: visible;
+    }
+    #Craft {
+        left: 0px;
+        top: 0px;
+        position: absolute;
+        overflow: visible;
+        width: 64px;
+        white-space: nowrap;
+        text-align: left;
+        font-family: Franklin Gothic;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 30px;
+        color: rgba(0, 0, 0, 1);
+    }
+    #Line_1 {
+        fill: transparent;
+        stroke: rgba(112, 112, 112, 1);
+        stroke-width: 3px;
+        stroke-linejoin: miter;
+        stroke-linecap: round;
+        stroke-miterlimit: 4;
+        shape-rendering: auto;
+    }
+    .Line_1 {
+        overflow: visible;
+        position: absolute;
+        width: 64px;
+        height: 3px;
+        left: 2.5px;
+        top: 34.5px;
+        transform: matrix(1, 0, 0, 1, 0, 0);
+    }
+    .size {
+        height: 444px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
